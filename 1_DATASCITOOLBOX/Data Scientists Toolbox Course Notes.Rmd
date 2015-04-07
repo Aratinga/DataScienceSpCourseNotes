@@ -53,7 +53,7 @@ output:
 * `git checkout -b branchname` = create new branch
 * `git branch` = tells you what branch you are on
 * `git checkout master` = move back to the master branch
-* `git pull` = merge you changes into other branch/repo (pull request, sent to owner of the repo)
+* `git pull` = merge your changes into other branch/repo (pull request, sent to owner of the repo)
 * `git push` = commit local changes to remote (GitHub)
 
 
@@ -89,7 +89,7 @@ output:
 * **Inferential analysis** = use data conclusions from smaller population for the broader group
 * **Predictive analysis** = use data on one object to predict values for another (if X predicts Y, does not = X cause Y)
 * **Causal analysis** = how does changing one variable affect another, using randomized studies, Strong assumptions, golden standard for statistical analysis
-* **Mechanistic analysis** = understand exact changes in variables in other variables, modeled by empirical equations (engineering/physics
+* **Mechanistic analysis** = understand exact changes in variables in other variables, modeled by empirical equations (engineering/physics)
 
 
 
@@ -101,7 +101,7 @@ output:
 * **Big data** = now possible to collect data cheap, but not necessarily all useful (need the right data)
 
 ## Experimental Design
-* Formulate you question in advance 
+* Formulate your question in advance 
 * **Statistical inference** = select subset, run experiment, calculate descriptive statistics, use inferential statistics to determine if results can be applied broadly
 * ***[Inference]*** **Variability** = lower variability + clearer differences = decision
 * ***[Inference]*** **Confounding** = underlying variable might be causing the correlation (sometimes called Spurious correlation)
@@ -115,7 +115,7 @@ output:
     * **Positive Predictive Value** = Pr(disease | positive test)
     * **Negative Predictive Value** = Pr(no disease | negative test)
     * **Accuracy** = Pr(correct outcome)
-* **Data dredging** = use data to fit hypothesis 
+* **Data dredging** = using data to fit hypothesis, possibly invalidly 
 * **Good experiments** = have replication, measure variability, generalize problem, transparent
-* Prediction is not inference, and be ware of data dredging
+* Prediction is not inference, and beware of data dredging 
 
